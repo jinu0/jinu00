@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">메모 앱</string>
+
+    <string name="category_prompt">카테고리 선택</string>
+    <string-array name="categories">
+        <item>일반</item>
+        <item>중요</item>
+        <item>개인</item>
+    </string-array>
+</resources>
